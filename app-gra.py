@@ -6,7 +6,7 @@ import os
 from datetime import datetime
 
 # トークンでログイン
-login(token="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")
+login(token="hf")
 
 # モデルのIDと量子化済みモデルの保存パス
 model_id = "stabilityai/stable-diffusion-3.5-large"
