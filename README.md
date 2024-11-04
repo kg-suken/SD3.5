@@ -51,3 +51,6 @@ pip install gradio
 
 - [Python](https://www.python.org/)
 - [PyTorch](https://pytorch.org/)
+
+
+制作:sskrc
